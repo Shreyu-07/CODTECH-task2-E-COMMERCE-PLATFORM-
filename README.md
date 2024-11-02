@@ -76,3 +76,5 @@ Ensure you have Firebase properly configured for the back-end to deploy and main
 **Contributing**
 
 Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
+
+visit site : https://shreyu-07.github.io/CODTECH-task2-E-COMMERCE-PLATFORM-/
