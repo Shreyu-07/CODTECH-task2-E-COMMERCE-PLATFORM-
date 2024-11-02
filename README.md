@@ -1,15 +1,17 @@
-Eccomars Web Page
+**Eccomars Web Page**
 
-Project Overview
+**Project Overview**
+
 Eccomars is a fully responsive and interactive e-commerce web page designed for selling shoes. This project showcases an engaging user interface, seamless navigation, and a modern design. It leverages a robust tech stack for both front-end and back-end development to ensure a dynamic shopping experience.
 
 
 
 
-About the Developer
-Name: Shreyas Shridhar Kulkarni
+**About the Developer**
 
-Internship: Completed at CODTECH IT SOLUTION PVT. LTD.
+**Name**: Shreyas Shridhar Kulkarni
+
+**Internship**: Completed at CODTECH IT SOLUTION PVT. LTD.
 
 Shreyas is a passionate full-stack developer with a knack for creating user-friendly and efficient web applications. His expertise spans across multiple technologies including React, Node.js, and Firebase.
 
@@ -18,15 +20,16 @@ Shreyas is a passionate full-stack developer with a knack for creating user-frie
 
 
 
-Technologies Used
+**Technologies Used**
 
-Front-End: HTML, CSS, JavaScript, React
+**Front-End**: HTML, CSS, JavaScript, React
 
-Back-End: Node.js, Nodemon
+**Back-End**: Node.js, Nodemon
 
-Database: Firebase
+**Database**: Firebase
 
-Features
+
+**Features**
 
 #Responsive Design: Accessible on various devices including desktops, tablets, and smartphones.
 
@@ -40,11 +43,11 @@ Features
 
 
 
-Deployment
+**Deployment**
 
 Ensure you have Firebase properly configured for the back-end to deploy and maintain real-time data functionality.
 
 
-Contributing
+**Contributing**
 
 Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
