@@ -1,4 +1,8 @@
 **Eccomars Web Page**
+**Note**
+
+It is only made for desktop 
+
 
 **Project Overview**
 
